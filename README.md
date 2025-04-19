@@ -47,23 +47,7 @@ npm start
 
 The app will run at `http://localhost:3000`.
 
-## Project Structure
 
-```
-chatgpt-clone-groq/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── ChatBox.js
-│   ├── App.js
-│   ├── index.js
-│   ├── App.css
-│   └── api.js
-├── .env
-├── package.json
-└── README.md
-```
 
 ## API Integration (Groq AI)
 
