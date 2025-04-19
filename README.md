@@ -21,8 +21,8 @@ This project is a basic ChatGPT clone built with the following technologies:
 1. **Clone the repository**
 
 ```bash
-https://github.com/yourusername/chatgpt-clone-groq.git
-cd chatgpt-clone-groq
+https://github.com/Ashutosh-koli/Ai-chat.git
+cd Ai-chat
 ```
 
 2. **Install dependencies**
